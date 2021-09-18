@@ -11,8 +11,10 @@ This project was done in collaboration with Zi Yang Chen and Guangzhi Sun.
 
 #### Markov Decision Process
 Found in page four of the report. The diagram describes the decision process and domain of choices.
+
 <img src="https://github.com/gabrielyiu1998/APM348_OR_Proj/blob/main/docs/MDP.PNG" width="70%">
 
 #### Learned Schedule
 Found in page nine of the report. This is the resulting production schedule with different probabilities of machine breakdown.
+
 <img src="https://github.com/gabrielyiu1998/APM348_OR_Proj/blob/main/docs/prod_schedule.PNG" width="50%">
